@@ -9,7 +9,7 @@ End-to-end machine learning pipeline fine-tuning a pre-trained chemical language
 ---
 
 ## 🎯 Project Overview
-Predicting biological assay outcomes and toxicity from raw molecular structures is a core challenge in early-stage drug discovery. This repository implements a robust Hugging Face `Transformers` and PyTorch pipeline to process SMILES strings directly, bypassing traditional handcrafted molecular fingerprints.
+Predicting biological assay outcomes and toxicity from raw molecular structures is a core challenge in early-stage drug discovery. This repository implements a Hugging Face `Transformers` and PyTorch pipeline to process SMILES strings directly, bypassing traditional handcrafted molecular fingerprints.
 
 ---
 
